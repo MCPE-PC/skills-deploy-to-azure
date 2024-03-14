@@ -9,7 +9,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: MCPE-PC-azure-ttt
+  DOCKER_IMAGE_NAME: MCPE-PC-azure-ttt 
   AZURE_WEBAPP_NAME: MCPE-PC-ttt-app
   ###############################################
 
